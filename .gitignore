@@ -1,0 +1,20 @@
+# Ignore Mac system files
+.DS_store
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Ignore LaTeX ancillary files	
+*.aux
+*.log
+*.gz
+*.tex
+*.fls
+*.fdb_latexmk
+*.bbl
+*.blg
+
+# Ignore large data files
+*.nc
+*.mat
+*.zip

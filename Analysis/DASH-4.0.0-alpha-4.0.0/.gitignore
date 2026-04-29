@@ -1,0 +1,15 @@
+# Files that github should not upload
+
+# For mac users
+**.DS_Store
+
+# To prevent uploading giant data files
+**.mat
+**.nc
+
+# Matlab autosaves
+**.asv
+
+# Dash data file extensions
+**.grid
+**.ens
